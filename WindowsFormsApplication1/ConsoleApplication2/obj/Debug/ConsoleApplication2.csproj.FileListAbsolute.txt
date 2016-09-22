@@ -1,0 +1,14 @@
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cashik\documents\visual studio 2015\Projects\WindowsFormsApplication1\ConsoleApplication2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
